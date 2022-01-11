@@ -1,4 +1,4 @@
-[![Java CI with Gradle](https://github.com/umgefahren/Graphs/actions/workflows/gradle.yml/badge.svg)](https://github.com/umgefahren/Graphs/actions/workflows/gradle.yml)
+[![Java CI with Gradle](https://github.com/umgefahren/Graphs/actions/workflows/gradle.yml/badge.svg)](https://github.com/umgefahren/Graphs/actions/workflows/gradle.yml) [![Gradle Package](https://github.com/umgefahren/Graphs/actions/workflows/gradle-publish.yml/badge.svg)](https://github.com/umgefahren/Graphs/actions/workflows/gradle-publish.yml)
 
 # Graph Algorithms in Java
 
