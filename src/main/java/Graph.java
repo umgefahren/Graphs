@@ -4,6 +4,17 @@ import java.util.Scanner;
 
 
 public class Graph {
+    public static class GraphAlgorithmResult {
+        Integer[] distance;
+        Integer[] predecessor;
+
+        GraphAlgorithmResult(Integer[] distance, Integer[] predecessor) {
+            this.distance = distance;
+            this.predecessor = predecessor;
+        }
+    }
+
+
     int vertices;
     Integer[][] weightMatrix;
 
