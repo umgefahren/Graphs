@@ -14,6 +14,13 @@ public class Graph {
         }
     }
 
+    public static Integer[] cleanLine(Integer[] line) {
+        Integer[] ret = line.clone();
+        for (int i = 0; i < ret.length; i++) {
+            ret[i] = ret[i] == null ? 0 : ret[i];
+        }
+        return ret;
+    }
 
     int vertices;
     Integer[][] weightMatrix;
