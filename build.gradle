@@ -32,6 +32,7 @@ publishing {
     }
     publications {
         gpr(MavenPublication) {
+            artifactId "graphsinjava"
             from(components.java)
         }
     }
