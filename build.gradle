@@ -4,7 +4,7 @@ plugins {
 }
 
 group = 'xyz.umgefahren'
-version = 'v0.5'
+version = 'v0.5.1'
 
 repositories {
     mavenCentral()
